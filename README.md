@@ -53,7 +53,7 @@
 
 
 ## Output:
-
+![1](https://github.com/sivaram-R/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/121165794/5cd41b1f-1fde-4343-855d-89bb3a1ab4c3)
 
 ### Name:Sivaram R
 ### Register Number: 212222100050
